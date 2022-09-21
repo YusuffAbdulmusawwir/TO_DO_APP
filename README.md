@@ -1,10 +1,10 @@
-TO_DO_APP
+
 how to build Django TO_DO_app with postgresql
 
 CONTENTS:
- CRUD operations using Django ORM
- Routing in Django
- connecting Django to postgresql
+ CRUD operations using Django ORM,
+ Routing in Django,
+ connecting Django to postgresql.
  
  THE INTERFACE
  
